@@ -17,3 +17,5 @@ sim_model/
 
 # Prediction outputs and intermediate files
 peizhen_output/
+bert.txt
+输出记录.txt
