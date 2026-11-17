@@ -1,5 +1,7 @@
 <h1 align="center">BERT 中文情感分类</h1>
 
+<p align="center">基于 BERT-Base 的中文三分类情感分析与陪诊行业社交媒体舆情应用</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-1.x-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow 1.x">
   <img src="https://img.shields.io/badge/BERT-Base-4285F4?style=flat" alt="BERT-Base">
