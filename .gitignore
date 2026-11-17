@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Pre-trained BERT model
+chinese_L-12_H-768_A-12/
+GLUE/BERT_BASE_DIR/
+
+# Fine-tuned model checkpoints
+sim_model/
+*.ckpt*
+*.tf_record
+
+# Prediction outputs and intermediate files
+peizhen_output/
